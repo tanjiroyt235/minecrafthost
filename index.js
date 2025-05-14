@@ -9,8 +9,8 @@ const client = new Client({
 });
 
 const serverOptions = {
-  host: 'your-server.aternos.me',  // Replace with your Minecraft server
-  port: 25565  // Update with your server port
+  host: 'FrostyServer.aternos.me',  // Replace with your Minecraft server
+  port: 32691  // Update with your server port
 };
 
 client.once('ready', () => {
